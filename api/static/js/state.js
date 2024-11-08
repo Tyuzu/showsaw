@@ -1,4 +1,4 @@
-const API_URL = "https://qualms.onrender.com/api"; // Adjust the URL as needed
+const API_URL = "https://fishstick-jwn1.onrender.com/api"; // Adjust the URL as needed
 
 // State management
 const state = {
